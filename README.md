@@ -1,8 +1,6 @@
 # travel_platform
 # SOA-WebApi项目——易旅
 
-2053853—孟星羽
-
 ## 开发环境
 
 -Vue版本：V2.9.6
